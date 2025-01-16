@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dithintitus
-- 👀 I’m interested in ...Cybersecurity
+- 👀 I’m interested in ...Cybersecurity & Full Stack Development
 - 🌱 I’m currently learning ...Btech_@_FISAT
 - 💞️ I’m looking to collaborate on ...nothing_yet
 - 📫 How to reach me ...INSTA
